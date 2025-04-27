@@ -20,7 +20,7 @@ const Mainpage = () => {
 
 
   return (
-   <div className='w-full h-full bg-blue-200'>
+   <div className='w-screen bg-blue-200'>
     <h2 className='bg-blue-400  flex justify-center p-6 text-3xl font-bold sticky top-0 md:bg-cyan-600 lg:bg-blue-400'>Memes</h2>
     <div className=' flex flex-wrap justify-around mt-[5%]'>
     
